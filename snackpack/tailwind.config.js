@@ -8,6 +8,9 @@ export default {
     extend: {
       backgroundImage: {
         'headerBg1': "url('./src/assets/snackpack-header.jpg')"
+      },
+      fontFamily: {
+        satoshi : ["Satoshi", "sans-serif"]
       }
     },
   },
